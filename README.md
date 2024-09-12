@@ -1,4 +1,4 @@
 TODO: 
  - Recap Git via Git Docs
- - Transition to company mail with domain @creationhosting.com
- - Use creationhosting.com for a site on WWW
+ - Transition to company mail 
+ - Use domain of campany mail for a site on WWW
