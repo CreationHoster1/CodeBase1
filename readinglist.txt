@@ -1,0 +1,16 @@
+Order of Study
+
+1. Deep learning, become versatile in modelling with DL (Core: Deep Learning (Goodfellow))
+2. Reinforcement Learning, single- and multi-agent, the DL/non-DL interface
+    Specify The DL/non-DL interface, and seek for examples more general than RL
+    E.g., for an integration of 1. into RL models, e.g. as Q-function approximators, or lay KNN over DL for a sensible compatibility of popular ML with Computer Vision data
+3. Computer Vision, (Observation-interpretation, data-representation and -processing)
+4. Deployment requirements and performance (The hardware/software interface, the software/reader interface)
+5. Conceptualization (feature-identification) 
+6. Interactibilty and reader co-operation 
+7. Deep Learning Encoding and Research (ArXiv)
+8. Hardware
+
+Core: Deep Learning
+
+Develop software while reading, as one would solve problems while reading, and write after reading
